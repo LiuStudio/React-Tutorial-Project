@@ -1,5 +1,11 @@
 # React-Tutorial-Project
 A Self Taught Project for me to learn and playaround with React, very simple project! Looking forward more to come!
+## Usage
+* Clone Repository
+* npm install
+* type `webpack-dev-server` in GitBash
+* Open Browser go to `http://localhost:8080`
+* Here you go! My Todo List is Up!
 
 ## A little background of me.
 As of now, I have been learning and playing with web development for 9 months. 
